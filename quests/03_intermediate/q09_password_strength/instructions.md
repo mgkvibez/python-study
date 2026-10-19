@@ -9,7 +9,7 @@ Write a function named `password_strength(password)` that rates a password based
 
 ## Example
 ```python
-password_strength("abc123")  # "medium"
+password_strength("abc12345")  # "medium"
 password_strength("Abc12345")  # "strong"
 password_strength("hello")  # "weak"
 ```
